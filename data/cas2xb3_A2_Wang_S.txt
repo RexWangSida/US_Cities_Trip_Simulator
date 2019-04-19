@@ -1,5 +1,0 @@
-SFWR ENG 2XB3
-Sida Wang
-400072157
-the fact that the work being submitted by Sida Wang is his individual work.
-Modules Bag, Stack, Queue are downloaded from princeton.edu, and BFS and DFS and other graph related module are implemented and modified based on the code in Algorithm 4th edition
